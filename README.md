@@ -55,8 +55,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/enkh-amar"><img src="https://img.shields.io/badge/-enkh-amar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-	<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/enkh-amar"><img src="https://img.shields.io/badge/-EnkhAmar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amra.developer@gmail.com"><img src="https://img.shields.io/badge/-amra.developer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/LiFi100vlc"><img src="https://img.shields.io/badge/-Амараа-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
