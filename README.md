@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enkh-Amar Ganbat</h1>
-<h3 align="center">A passionate sofware engineering student from Mongolia</h3>
+<h3 align="center">A passionate software engineering student from Mongolia</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EnkhAmar&color=blueviolet&style=flat">
