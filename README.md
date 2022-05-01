@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/EnkhAmar?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Python** & **Javascript**
 
 - 📫 How to reach me **amra.developer@gmail.com**
 
