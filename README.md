@@ -59,4 +59,4 @@
 <a href="mailto:amra.developer@gmail.com"><img src="https://img.shields.io/badge/-amra.developer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/LiFi100vlc"><img src="https://img.shields.io/badge/-Амараа-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p>
