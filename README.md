@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enkh-Amar Ganbat</h1>
+<h1 align="center">Hi 👋, I'm Enkh-Amar Ganbat.</h1>
 <h3 align="center">A passionate software engineering student from Mongolia.</h3>
 	
 <p align="center">
