@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=EnkhAmar&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning **Flutter, Redux, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/EnkhAmar?tab=repositories)
 
